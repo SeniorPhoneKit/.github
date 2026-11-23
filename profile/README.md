@@ -1,5 +1,7 @@
 # SeniorPhoneKit
 
+<p align="center"><img src="home-screen.png" alt="SeniorLauncher home screen in the dark theme: time, date and battery at the top, a missed call from Anna, big tiles for Phone, Contacts, Alarm and Flashlight, and SeniorNav's Back and Home bar at the bottom" width="360"></p>
+
 Simple Android apps that turn a phone into one a senior can use: big text,
 big buttons, few choices, nothing to swipe. A helper sets the phone up once
 and can lock the setup. All apps are free, work offline and come in English
